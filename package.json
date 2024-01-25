@@ -1,0 +1,19 @@
+{
+  "name": "drop-down-menu-package",
+  "version": "1.0.0",
+  "description": "A simple drop down menu package using HTML, CSS, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vndlgd/drop-down-menu-package.git"
+  },
+  "author": "Ivan Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vndlgd/drop-down-menu-package/issues"
+  },
+  "homepage": "https://github.com/vndlgd/drop-down-menu-package#readme"
+}
